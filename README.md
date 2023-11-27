@@ -10,7 +10,7 @@ The passwords.txt file is an example file and is not recomended for actual use.
 The sshbrutethreaded.py uses the same logic and also makes use of threads for a faster solution to the attack.
 
 
-This Python script is a simple tool for attempting to perform SSH password authentication attacks on a target host. Here's a breakdown of its functionality:
+The sshbrute.py script is a simple tool for attempting to perform SSH password authentication attacks on a target host. Here's a breakdown of its functionality:
 
 1. **Imported Modules:**
    - `paramiko`: A library for SSH connections.
